@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Floball</string>
+    <string name="floball">Floball</string>
+    <string name="question">Question</string>
+    <string name="go">GO</string>
+    <string name="probably">Probably</string>
+</resources>
